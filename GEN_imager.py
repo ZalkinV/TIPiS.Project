@@ -9,10 +9,10 @@ import matplotlib.pyplot as plt
 
 max_images_count = 4000
 # Paths for input data
-npy_files_path = "../set/"
+npy_files_path = "./GEN_nodules/"
 
 # Paths for results
-images_path = "../gan/"
+images_path = "../GEN_results/"
 
 
 

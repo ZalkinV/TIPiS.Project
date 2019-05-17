@@ -7,8 +7,8 @@ import matplotlib.pyplot as plt
 
 
 # Paths for input data
-nodules_path = "/data/itip-m3405/Semi-Supervised-Learning-To-Improve-Lung-Cancer-Detection/Detector/processDetectedNodules/output/"
-labels_file_path = "/data/itip-m3405/Semi-Supervised-Learning-To-Improve-Lung-Cancer-Detection/Detector/processDetectedNodules/output/full_label.csv"
+nodules_path = "./GAN_nodules/"
+labels_file_path = "./GAN_nodules/full_label.csv"
 
 
 # Paths for results

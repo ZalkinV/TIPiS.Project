@@ -4,7 +4,7 @@ import shutil
 
 
 # Paths for input data
-data_path = "./data/"
+data_path = "./LCD_nodules/"
 labels_files_names = ["traindatalabels.txt", "valdatalabels.txt", "testdatalabels.txt"]
 
 
